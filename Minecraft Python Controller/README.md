@@ -4,4 +4,5 @@ Basically just a way to perform predetermined inputs in minecraft using Python. 
 ## Requirements
 
 • Mouse and Keyboard Modules (pip install mouse keyboard)
+
 • Make sure Raw Input is turned off in Options->Controls->Mouse Settings
